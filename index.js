@@ -1,4 +1,9 @@
 // Import stylesheets
-import './style.css';
+import "./style.sass";
+
+
+const validate = () => {
+  
+}
 
 // Write Javascript code!
